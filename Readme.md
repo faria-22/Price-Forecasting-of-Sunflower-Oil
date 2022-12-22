@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Forecasting of Sunflower Oil Price"
 output: html_document
 date: "2022-12-18"
 ---
@@ -8,7 +8,7 @@ date: "2022-12-18"
 
 knitr::opts_chunk$set(echo = TRUE)
 ```
-*Overview: This project is about forecasting of sunflower oil pricing and the overall impact of Russia_Ukrain war on sunflower oil price. *
+*Overview: Our objective is to analyze the overall impact of Russia-Ukraine war on sunflower oil pricing and further forecast the price in future to see if there is an impact or not.*
 
 ## R Markdown
 
